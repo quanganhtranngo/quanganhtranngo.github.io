@@ -8,4 +8,4 @@ image: portrait.jpg
 
 # Hi, my name is Alex!
 
-I'm a graduate student from the Department of Psychology, Indiana University.
+I'm a PhD student from the Department of Psychology, Indiana University.
