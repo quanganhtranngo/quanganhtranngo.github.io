@@ -1,0 +1,50 @@
+baseURL = "https://quanganhtranngo.github.io/"
+languageCode = "en-us"
+title = "Alex Tran"
+theme = 'barks'
+
+[params.head]
+    author = "Alex Tran"
+    custom_css = "style.css"
+    description = "Alex Tran's Homepage"
+    keywords = ["alex", "tran", "psychology", "iu", "indiana", "university"]
+
+[params.navigation]
+    show_navigation = true
+
+[params.footer]
+    show_footer = true
+
+[params.social]
+    [params.social.email]
+        name = "E-Mail"
+        class = "fas fa-envelope"
+        url = "mailto:quatran@iu.edu"
+        weight = 1
+    # [params.social.github]
+    #     name = "GitHub"
+    #     class = "fab fa-github"
+    #     url = "https://github.com/<your_github_username>"
+    #     weight = 2
+    [params.social.google_scholar]
+        name = "Google Scholar"
+        class = "ai ai-google-scholar-square"
+        url = "https://scholar.google.com/citations?user=DZCxUJAAAAAJ"
+        weight = 2
+
+[menu]
+    [[menu.main]]
+        identifier = 'about'
+        name = 'about'
+        url = '/about/'
+        weight = -120
+    [[menu.main]]
+        identifier = 'research'
+        name = 'research'
+        url = '/research/'
+        weight = -110
+    [[menu.main]]
+        identifier = 'blogs'
+        name = 'blogs'
+        url = '/blogs/'
+        weight = -100
