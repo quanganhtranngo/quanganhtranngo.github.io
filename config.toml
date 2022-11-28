@@ -46,30 +46,30 @@ theme = 'barks'
     [[menu.main]]
         identifier = 'About'
         name = 'About'
-        url = '/About/'
+        url = '/about/'
         weight = -130
     [[menu.main]]
         identifier = 'Research'
         name = 'Research'
-        url = '/Research/'
+        url = '/research/'
         weight = -120
-    [[menu.main]]
-        identifier = 'Blogs'
-        name = 'Blogs'
-        url = '/Blogs/'
-        weight = -80
     [[menu.main]]
         identifier = 'Teaching'
         name = 'Teaching'
-        url = '/Teaching/'
+        url = '/teaching/'
         weight = -110
-    [[menu.main]]
-        identifier = 'CV'
-        name = 'CV'
-        url = '/CV/'
-        weight = -90
     [[menu.main]]
         identifier = 'Awards & Honors'
         name = 'Awards & Honors'
-        url = '/Awards&Honors/'
+        url = '/awards/'
         weight = -100
+    #[[menu.main]]
+    #    identifier = 'CV'
+    #    name = 'CV'
+    #    url = '/cv/'
+    #    weight = -90
+    [[menu.main]]
+        identifier = 'Blogs'
+        name = 'Blogs'
+        url = '/blogs/'
+        weight = -80
