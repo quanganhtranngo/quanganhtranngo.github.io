@@ -22,7 +22,7 @@ hide_title: true
 •	Tutored an undergraduate Psychology statistics course averaging 30 students per semester, covering topics such as descriptive statistics, correlation, regression, z-tests, t-tests, and ANOVAs.
 
 # Peer Educator
-## Community Leader Training
+## Implicit Bias - Community Leader Training
 ### Colgate University, Hamilton, NY (August 2021)
 •	Assisted in creating a training curriculum for implicit bias.
 •	Cultivated a brave space to help Community Leaders gain tools to create supportive, unbiased, environments and communities and learn strategies for interrupting and reducing biased thoughts and actions.
