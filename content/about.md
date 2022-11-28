@@ -6,7 +6,7 @@ hide_title: true
 ---
 
 # Introduction
-I'm a graduate student from the Department of Psychology, Indiana University.
+I am a first-year graduate student in Social Psychology at Indiana University Bloomington from Vietnam, advised by Dr. Amanda Diekman. I am particularly interested in the psychology of the -isms, bias, prejudice, and interminority coalition. My prior work has focused on the intersectionality of race and gender in social cognition.
 
 # Hobby
-More will be added soon.
+I love reading, dancing, and playing League of Legends and Teamfight Tactics in my free time.
