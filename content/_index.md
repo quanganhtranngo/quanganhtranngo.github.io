@@ -6,6 +6,6 @@ layout: landing_page
 image: portrait.jpg
 ---
 
-# Hi, my name is Alex!
+# Hi, my name is Quang-Anh Ngo Tran (Alex Tran)!
 
-I'm a PhD student from the Department of Psychology, Indiana University.
+I am a first-year graduate student in the Social Psychology department at Indiana University Bloomington from Vietnam, advised by Dr. Amanda Diekman. I am particularly interested in the psychology of the -isms, bias, prejudice, and interminority coalition. My prior work has focused on the intersectionality of race and gender in social cognition.
