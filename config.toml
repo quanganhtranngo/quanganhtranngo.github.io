@@ -7,7 +7,7 @@ theme = 'barks'
     theme_color = "#fcfbf9"
     background_color = "#333333"
     text_color = "#fcfbf9"
-    link_color = "#0000EE"
+    link_color = "#ff8787"
     
 [params.head]
     author = "Quang-Anh Ngo Tran"
