@@ -28,12 +28,12 @@ theme = 'barks'
         weight = 2
     [params.social.LinkedIn]
         name = "LinkedIn"
-        class = "fa-brands fa-square-twitter"
+        class = "fas fa-brands fa-linkedin"
         url = "https://www.linkedin.com/in/quang-anh-tran-345696173/"
         weight = 3
     [params.social.Twitter]
         name = "Twitter"
-        class = "fa-brands fa-square-twitter"
+        class = "fas fa-brands fa-square-twitter"
         url = "https://mobile.twitter.com/QuangAnhTranNgo"
         weight = 4
     [params.social.MyInstitution]
