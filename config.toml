@@ -57,7 +57,7 @@ theme = 'barks'
         identifier = 'Blogs'
         name = 'Blogs'
         url = '/Blogs/'
-        weight = -90
+        weight = -70
     [[menu.main]]
         identifier = 'Teaching'
         name = 'Teaching'
@@ -68,3 +68,8 @@ theme = 'barks'
         name = 'CV'
         url = '/CV/'
         weight = -80
+    [[menu.main]]
+        identifier = 'Awards & Honors'
+        name = 'Awards & Honors'
+        url = '/Awards&Honors/'
+        weight = -90
