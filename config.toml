@@ -44,17 +44,27 @@ theme = 'barks'
 
 [menu]
     [[menu.main]]
-        identifier = 'about'
-        name = 'about'
-        url = '/about/'
+        identifier = 'About'
+        name = 'About'
+        url = '/About/'
         weight = -120
     [[menu.main]]
-        identifier = 'research'
-        name = 'research'
-        url = '/research/'
+        identifier = 'Research'
+        name = 'Research'
+        url = '/Research/'
         weight = -110
     [[menu.main]]
-        identifier = 'blogs'
-        name = 'blogs'
-        url = '/blogs/'
+        identifier = 'Blogs'
+        name = 'Blogs'
+        url = '/Blogs/'
+        weight = -90
+    [[menu.main]]
+        identifier = 'Teaching'
+        name = 'Teaching'
+        url = '/Teaching/'
         weight = -100
+    [[menu.main]]
+        identifier = 'CV'
+        name = 'CV'
+        url = '/CV/'
+        weight = -80
