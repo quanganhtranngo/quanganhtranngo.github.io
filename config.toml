@@ -1,13 +1,13 @@
 baseURL = "https://quanganhtranngo.github.io/"
 languageCode = "en-us"
-title = "Alex Tran"
+title = "Quang-Anh Ngo Tran"
 theme = 'barks'
 
 [params.head]
-    author = "Alex Tran"
+    author = "Quang-Anh Ngo Tran"
     custom_css = "style.css"
-    description = "Alex Tran's Homepage"
-    keywords = ["alex", "tran", "psychology", "iu", "indiana", "university"]
+    description = "Quang-Anh Ngo Tran's Homepage"
+    keywords = ["alex", "Quang-Anh", "Ngo", "tran", "psychology", "iu", "indiana", "university"]
 
 [params.navigation]
     show_navigation = true
