@@ -31,6 +31,21 @@ theme = 'barks'
         class = "ai ai-google-scholar-square"
         url = "https://scholar.google.com/citations?user=DZCxUJAAAAAJ"
         weight = 2
+    [params.social.LinkedIn]
+        name = "LinkedIn"
+        class = "fa-brands fa-linkedin"
+        url = "https://www.linkedin.com/in/quang-anh-tran-345696173/"
+        weight = 3
+    [params.social.Twitter]
+        name = "Twitter"
+        class = "fa-brands fa-twitter"
+        url = "https://mobile.twitter.com/QuangAnhTranNgo"
+        weight = 4
+    [params.social.MyInstitution]
+        name = "My Institution"
+        class = "fa-solid fa-building-columns"
+        url = "https://socialroles.lab.indiana.edu/people/index.html"
+        weight = 5 
 
 [menu]
     [[menu.main]]
