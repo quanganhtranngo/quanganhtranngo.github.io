@@ -63,11 +63,11 @@ theme = 'barks'
         name = 'Awards & Honors'
         url = '/awards/'
         weight = -100
-    #[[menu.main]]
-    #    identifier = 'CV'
-    #    name = 'CV'
-    #    url = '/cv/'
-    #    weight = -90
+    [[menu.main]]
+        identifier = 'CV'
+        name = 'CV'
+        url = '/AlexTran_CV.docx/'
+        weight = -90
     [[menu.main]]
         identifier = 'Blogs'
         name = 'Blogs'
