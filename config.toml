@@ -72,7 +72,7 @@ theme = 'barks'
     [[menu.main]]
         identifier = 'CV'
         name = 'CV'
-        url = '/alextran_cv.docx'
+        url = '/alextrancv.pdf'
         weight = -90
     [[menu.main]]
         identifier = 'Blogs'
