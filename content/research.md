@@ -9,7 +9,7 @@ Here you can find my publications and posters/talks sorted chronologically.
 
 ## Publications
 
-Chen, R., Fwu, B.J., Yang, T.R., Chen, Y.K., **Tran, Q.A.N.** (2022). *"To mask or not to mask: Debunking the myths of mask-wearing during COVID-19 across cultures"*. [PLOS ONE 17(9): e0270160](https://doi.org/10.1371/journal.pone.0270160) [view here](journal.pone.0270160.pdf)
+Chen, R., Fwu, B.J., Yang, T.R., Chen, Y.K., **Tran, Q.A.N.** (2022). *"To mask or not to mask: Debunking the myths of mask-wearing during COVID-19 across cultures"*. [PLOS ONE 17(9): e0270160](https://doi.org/10.1371/journal.pone.0270160) [[view here]](journal.pone.0270160.pdf)
 
 ## Talks
 
