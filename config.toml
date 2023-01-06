@@ -4,10 +4,10 @@ title = "Quang-Anh Ngo Tran"
 theme = 'barks'
 
 [params.colors]
-    theme_color = "#fcfbf9"
-    background_color = "#333333"
-    text_color = "#fcfbf9"
-    link_color = "#ff8787"
+    theme_color = "#333333"
+    background_color = "#fcfbf9"
+    text_color = "#333333"
+    link_color = "#60c17d"
     
 [params.head]
     author = "Quang-Anh Ngo Tran"
