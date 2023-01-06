@@ -3,7 +3,7 @@ title: "On Friendship"
 date: 2022-11-27T18:12:11+07:00
 draft: false
 ---
-![Little Brothers](quanganhtranngo.github.io/static/Blog/OnFriendship/IMG_1136.jpg)
+![Little Brothers](/IMG_1136.jpg)
 
   As a child, my definition of friendship was rife with love, passion, pettiness, fights, keeping tabs, invisible tiers, insecurities, and most importantly, authenticity and the idea of being known. My friendship had to be reciprocated, or else I would be butt-hurt over someone who did not even care the slightest bit about me. It had to be steady and rhythmic. For a lack of a better word, I was the high-maintenance stuck-up friend whose face was swollen every time someone forgot to invite me to a jump rope session. 
 
