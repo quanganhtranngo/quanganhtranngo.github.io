@@ -3,7 +3,7 @@ title: "On Friendship"
 date: 2022-11-27T18:12:11+07:00
 draft: false
 ---
-<img src="/littlebrothers.jpg" alt="Little Brothers" width="200"/>
+<img src="/littlebrothers.jpg" alt="Little Brothers" width="200">
 
   The first time I met Josh was during Orientation Week for International Students at Colgate University, a small elite privileged liberal arts institution in upstate New York. The breezes of fall swept my attention away at every minute, but Josh kept my attention back on the ground. I was a magnet and so was he. Everyone was circling around him, so I chose to avoid him. In the stuffed cubical room, we were polar opposites. Like a dance, I slid to the other side of the room whenever he was on one side. Our conversations were demarcated by the English textbook introduction conversations: “Hey, what’s your name? My name is […]. Hi. Nice to meet you.” Nothing more, nothing less, nothing short of the superficial friendliness that would irk me more now than then. He was a strong magnet, though, since soon after, everyone printed their name tag as “Josh Kim.” I was intrigued. Suddenly, the room didn’t feel so stuffed. 
 
