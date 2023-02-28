@@ -19,6 +19,8 @@ Chen, R., Fwu, B.J., Yang, T.R., Chen, Y.K., **Tran, Q.A.N.** (2022). *"To 
 
 ## Posters
 
-**Tran, Q.A.N.** (July, 2022). Race, Gender, and Power: An Intersectional Examination of Women of Color’s Bodily Displays. Poster at the International Society for Gesture Studies (ISGS) Chicago 2022 - Gesture: From Description to Application [[view here]](/racegenderpower_isgs_poster.pdf)
+**Tran, Q. N.** (February, 2023). Racialized Sexism: An Intersectional Examination of Women’s Bodily Displays. Poster at the Society for Personality and Social Psychology (SPSP) Atlanta, Georgia 2023. [[view here]](/SPSP2023_Tran.pdf)
+
+**Tran, Q.A.N.** (July, 2022). Race, Gender, and Power: An Intersectional Examination of Women of Color’s Bodily Displays. Poster at the International Society for Gesture Studies (ISGS) Chicago 2022 - Gesture: From Description to Application. [[view here]](/racegenderpower_isgs_poster.pdf)
 
 **Tran, Q.A.N.** (May, 2021). The Effects of Intolerance of Uncertainty on Self-Control. Poster at the Association for Psychological Sciences (APS) Virtual Convention and Poster Showcase. [[view here]](/intoleranceofuncertainty_selfcontrol_Poster.pdf)
