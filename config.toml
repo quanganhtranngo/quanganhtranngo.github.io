@@ -72,7 +72,7 @@ theme = 'barks'
     [[menu.main]]
         identifier = 'CV'
         name = 'CV'
-        url = '/Tran_CV.docx'
+        url = '/cv.pdf'
         weight = -90
     [[menu.main]]
         identifier = 'Blogs'
