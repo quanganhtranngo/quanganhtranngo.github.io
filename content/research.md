@@ -9,9 +9,13 @@ Here you can find my publications and posters/talks sorted chronologically.
 
 ## Publications
 
-Chen, R., Fwu, B.J., Yang, T.R., Chen, Y.K., **Tran, Q.A.N.** (2022). *"To mask or not to mask: Debunking the myths of mask-wearing during COVID-19 across cultures"*. [PLOS ONE 17(9): e0270160](https://doi.org/10.1371/journal.pone.0270160) [[view here]](/journal.pone.0270160.pdf)
+Kelly, S. D., & **Ngo Tran, Q. A.** (2023). Exploring the Emotional Functions of Co‐Speech Hand Gesture in Language and Communication. *Topics in Cognitive Science*.[[view here]](/KellyTran2023.pdf)
+
+Chen, R., Fwu, B.J., Yang, T.R., Chen, Y.K., **Tran, Q.A.N.** (2022). To mask or not to mask: Debunking the myths of mask-wearing during COVID-19 across cultures. *PLOS ONE 17*(9), e0270160, https://doi.org/10.1371/journal.pone.0270160 [[view here]](/journal.pone.0270160.pdf)
 
 ## Talks
+
+**Tran, Q.A.N.**, Cooley, E., Lisnek, J., Brown-Iannuzzi, J, (April, 2023). Intolerance of Uncertainty Predicts Coping, Depression, and Anxiety During the COVID-19 Pandemic. Presentation at the National Conference on Undergraduate Research (NCUR), virtual. [[view here]](/MPA2023.pdf)
 
 **Tran, Q.A.N.**, Zuo, S., Zutshi, J. (April, 2021). Intolerance of Uncertainty Predicts Coping, Depression, and Anxiety During the COVID-19 Pandemic. Presentation at the National Conference on Undergraduate Research (NCUR), virtual. [[view here]](/intoleranceofuncertainty_pandemic_presentation.pdf)
 
