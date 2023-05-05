@@ -4,6 +4,7 @@ date: 2022-11-27T18:12:11+07:00
 draft: false
 ---
 ![Teaching and Gardening](/TeachGarden.PNG)
+[Drawing by me, inspired by Youtuber @EveryTuesday]
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“How do I even begin teaching students with amazingly diverse worldviews and rich perspectives without enforcing my own on them?” This was my dilemma as I began my first teaching position. An opening to the conundrum presented itself when I mentored my first undergraduate senior. Although we had different research interests at the time, we both realized that Social Psychology was our shared way of understanding the experiences of marginalized groups and our own experiences. Social Psychology also empowers us to be authentic and brave in the face of prevalent hate crimes rampaging throughout the U.S. It dawned on me that the answer to my opening question lies in the question itself: Teaching and learning Social Psychology requires “amazingly diverse worldviews and rich perspectives.” I started to see my role as a teacher like a gardener. Every student is a different seed, with different passions, ambitions, personality traits, learning preferences, and backgrounds. And with the right gardener providing the individualized environment suitable for each seed, the seed will grow to become the best version of that plant. By fostering students’ natural inclinations and interests, I believe they can become their own successful generation. 
 
