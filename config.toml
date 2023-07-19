@@ -75,7 +75,12 @@ theme = 'barks'
         url = '/cv.pdf'
         weight = -90
     [[menu.main]]
+        identifier = 'R with Alex'
+        name = 'R with Alex'
+        url = '/rwithalex/'
+        weight = -80
+    [[menu.main]]
         identifier = 'Blogs'
         name = 'Blogs'
         url = '/blogs/'
-        weight = -80
+        weight = -70
