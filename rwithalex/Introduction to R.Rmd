@@ -1,0 +1,82 @@
+---
+title: "Introduction to R"
+output: html_document
+date: "`r Sys.Date()`"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+Welcome to my blog - R with Alex (or Rawlex for short. Don't worry, I'll make the name stick). In this blog, I will (hopefully) acquaint you with R and its application for data analysis, with multiple examples. Most of my examples will be drawn from datasests from Psychology, because that is my domain of specialty. However, you can apply these principles to apply to your own analysis and answer your own research questions from other disciplines.
+
+## Don't fear
+
+It is normal to feel overwhelmed and fearful as you start learning a new language. The process is similar to learning a foreign language. In fact, think of R as a foreign language. Without any knowledge, foreign language can look and sound like gibberish to you. After learning and consistently practicing, you start to understand. Better yet, you are able to communicate with others using that language. R is the same. It may be a little difficult at the beginning but you will get yourself familiar with it in no time. In fact, students who have started learning R showed neutral to positive attitudes towards R. Many find R valuable and they feel competent (which you are!) after being able to use R (Counsell & Cribbie, 2020; Tucker et al., 2022). The key is to sustain your engagement with R overtime (Tucker et al., 2022). In other words, practice, practice, and practice (Tucker et al., 2022).
+
+## Why R
+
+These are just a few reasons:
+- Free and open-source
+- User-created packages make it easy to conduct even more complicated analysis.
+- Flexible and wide range of uses
+- Better data visualization (the graphs look really pretty!)
+- Highly valued skill in academia and industry
+
+However, unlike other (paid) services (e.g., SPSS), R do not have a point-and-click system, but it is a powerful tool to conduct more complicated analysis efficiently and quickly. Once you learn the basics, you can teach yourself to do even more with R. 
+
+## Positionality
+
+For answering why make a positionality statement, read Qin (2016).
+
+Before I engage in writing these blogs, in the spirit of self-reflexivity, I acknowledge my standpoint as an international Ph.D. student from Vietnam studying Social Psychology at Indiana University Bloomington. 
+
+Being an international student informs my choice of blogs as a form of education. I come from an education system in which obedience and silence are valued. Teachers expected me to listen to their demands in class and my silence while attending the lectures was always met with praises. However, that all changed when I came to the U.S., where participation is encouraged and often part of the evaluation. Having difficulty adjusting, I needed more time collecting my thoughts. This resulted in my failure to constantly follow the fast pace of the American classroom. Now, after 5 years of acquainting myself with the U.S. education system, I found blogging as an effective form of education for three reasons: (1) it can reach a wider and different set of audiences; (2) it avoids the heavy academic jargon that often prevents non-academic folks from participating/reading; (3) it has been shown to increase students' engagement and participation (Brownstein & Klein, 2006; Shaohui & Lihua, 2008). Furthermore, there is a fourth reason that resonated with my experience: the asynchronicity blogging allows learners to learn at their own pace. I hope for these reasons, you will also benefit from learning from my blog.
+Experiencing Vietnamese education also allowed me to appreciate the growth mindset my teachers promoted. For us Vietnamese students, naturally endowed intelligence (e.g., genetics) matters less than individual efforts. As long as I work hard, I will succeed. This is the mindset I am carrying into these blogs. Learning R requires effort and consistency. Practice with me regularly and I promise you can learn how to use R. Forget about the "math gene," you do not need that.
+
+As a scholar, I have a special interest in education and teaching and I believe in evidence-based teaching, teaching practices that are informed by research. That is why, throughout these blogs, you will see citations, with a complete bibliography at the end for your reference. My research interests broadly involves the perception of minoritized individuals with intersecting identities, which informs the data I choose as practice and demonstrative exercises in these blogs. I will feature more research from scholars of colors, whose research are rigorous and informative but have been more invisible in the common discourse than their White counterparts' (Roberts et al., 2020).
+
+
+## Structure
+
+The structure of each of these blog will be as followed:
+1, Each blog will be opened with a short introduction, followed by the outlined goals of each blog.
+2, The content of that blog (e.g., how to produce descreptive statistics with R) along with examples
+3, Exercises for you to try for yourself
+4, Recommended readings
+5, Bibliography 
+Blogging is always a work in progress. Thus, if you have anything to add, don't hesitate to let me know through my contacts.
+
+
+## Let's get started! Downloading R and R Studio
+
+You already know R is a programming language used to perform statistical computing. R Studio is an Integrated Development Environment (IDE) to make it easier and more efficient and execute R codes. Think of R Studio like Microsoft Word, but instead of helping writing English, it helps you write R (Grolemund, 2014). When we use R, most of the times I am actually referring to using R Studio. Screenshots in this blog will also be from the R Studio interface.
+
+Here is the link and instructions on how to download R and R Studio:
+
+Here is the [link](https://cran.r-project.org/) to download R. Remember to pick the right R for your operating system: Windows, Mac, or Linux.
+![Website for Downloading R](C://Users//linht//Downloads//R.png)
+
+Here is the [link](https://posit.co/products/open-source/rstudio/) to download R Studio. Remember, although you mostly use R Studio, you cannot use R Studio without downloading R.
+
+Have you downloaded and installed them yet? Great! Now just open the R Studio and start learning with me.
