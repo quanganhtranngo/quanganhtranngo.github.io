@@ -2,12 +2,7 @@
 title: "Introduction to R"
 output: html_document
 author: Alex Tran (Tran Ngo Quang Anh)
-date: "`r Sys.Date()`"
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 Welcome to my blog - R with Alex (or Rawlex for short. Don't worry, I'll make the name stick). In this blog, I will (hopefully) acquaint you with R and its application for data analysis, with multiple examples. Most of my examples will be drawn from datasests from Psychology, because that is my domain of specialty. However, you can apply these principles to apply to your own analysis and answer your own research questions from other disciplines.
 
