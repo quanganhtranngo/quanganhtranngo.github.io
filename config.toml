@@ -80,7 +80,12 @@ theme = 'barks'
         url = '/rwithalex/'
         weight = -80
     [[menu.main]]
+        identifier = 'Recommended Books'
+        name = 'Recommended Books'
+        url = '/books/'
+        weight = -70    
+    [[menu.main]]
         identifier = 'Blogs'
         name = 'Blogs'
         url = '/blogs/'
-        weight = -70
+        weight = -60
