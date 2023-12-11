@@ -5,7 +5,7 @@ draft: false
 hide_title: true
 ---
 
-Here are some of the books I have read and recommend. The genres divide are not entirely accurate but it is helpful for me to divide the books up.
+Here are some of the books I have read and recommend. The genre divide is not entirely accurate and one book can fall into multiple categories.
 
 ## Textbooks
 
