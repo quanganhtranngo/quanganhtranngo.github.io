@@ -5,7 +5,7 @@ draft: false
 hide_title: true
 ---
 
-Here are some of the books I have read and recommend.
+Here are some of the books I have read and recommend. The genres divide are not entirely accurate but it is helpful for me to divide the books up.
 
 ## Textbooks
 
@@ -19,10 +19,14 @@ The Asian American Achievement Paradox - Jennifer Lee, Min Zhou [[view here]](ht
 
 On Earth We're Briefly Gorgeous - Ocean Vuong [[view here]](https://www.oceanvuong.com/copy-of-home)
 
-Stay True - Hua Hsu [[view here]](https://byhuahsu.com/)
-
-How to Write an Autobiographical Novel - Alexander Chee [[view here]](https://www.alexanderchee.net/autobiographical-novel)
+## Fiction
 
 All My Rage - Sabaa Tahir [[view here]](https://sabaatahir.com/all-my-rage-2/)
 
 The Sympathizer - Viet Thanh Nguyen [[view here]](https://vietnguyen.info/2014/sympathizer)
+
+## Autobiography
+
+Stay True - Hua Hsu [[view here]](https://byhuahsu.com/)
+
+How to Write an Autobiographical Novel - Alexander Chee [[view here]](https://www.alexanderchee.net/autobiographical-novel)
