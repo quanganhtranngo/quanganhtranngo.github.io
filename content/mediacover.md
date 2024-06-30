@@ -7,5 +7,7 @@ hide_title: true
 
 Here you can find media coverages of my and my colleagues' work.
 
-Gender, race, and power: Unpacking the dynamics of workplace perceptions [[view here]](https://www.psypost.org/gender-race-and-power-unpacking-the-dynamics-of-workplace-perceptions/#google_vignette)
+## Blogs
+
+[[Gender, race, and power: Unpacking the dynamics of workplace perceptions]](https://www.psypost.org/gender-race-and-power-unpacking-the-dynamics-of-workplace-perceptions/#google_vignette)
 
