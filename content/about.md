@@ -6,7 +6,7 @@ hide_title: true
 ---
 
 # Introduction
-I am a second-year graduate student in Social Psychology at Indiana University Bloomington from Vietnam, advised by Dr. Amanda Diekman. I am particularly interested in stereotyping, bias, prejudice, intersectionality, and interminority coalition.
+I am a graduate student studying Social Psychology at Indiana University Bloomington from Vietnam, advised by Dr. Amanda Diekman. I am particularly interested in in how sociostructural perspectives can inform the psychological study of stereotyping and person perception.
 
 # Hobby
-I love reading, dancing, creative writing, and playing League of Legends and Teamfight Tactics in my free time.
+I love reading, dancing, and playing League of Legends, Teamfight Tactics, and Maplestory in my free time.
