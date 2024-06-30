@@ -3,7 +3,6 @@ title: "R With Alex"
 date: 2022-11-27T18:12:11+07:00
 draft: false
 ---
-## R With Alex
 
 With the help and feedback of a lot of friends and colleagues, I have written tutorials on how to use R for data analysis, for beginners with zero experience with any coding languages. I hope this serves as a good resource for you.
 
