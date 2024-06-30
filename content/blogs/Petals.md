@@ -1,7 +1,7 @@
 ---
 title: "Petals"
 date: 2023-07-13T18:12:11+07:00
-draft: false
+draft: true
 ---
 ![Petals](/Petals.png)
 [Drawing by me]
