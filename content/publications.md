@@ -5,7 +5,7 @@ draft: false
 hide_title: true
 ---
 
-Here you can find my publications and posters/talks sorted chronologically.
+Here you can find my publications sorted chronologically.
 
 ## Publications
 
