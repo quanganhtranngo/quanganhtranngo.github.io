@@ -52,26 +52,31 @@ theme = 'barks'
     [[menu.main]]
         identifier = 'Research'
         name = 'Research'
-        url = '/research/'
+        url = '/Research/'
         weight = -130
+    [[menu.main]]
+        identifier = 'Publication'
+        name = 'Publication'
+        url = '/Publication/'
+        weight = -120
     [[menu.main]]
         identifier = 'CV'
         name = 'CV'
         url = '/cv.pdf'
-        weight = -120
+        weight = -110
     [[menu.main]]
         identifier = 'Media Coverage'
         name = 'Media Coverage'
         url = '/mediacover/'
-        weight = -110
+        weight = -100
     [[menu.main]]
         identifier = 'R with Alex'
         name = 'R with Alex'
         url = '/rwithalex/'
-        weight = -100
+        weight = -90
     [[menu.main]]
         identifier = 'Reading'
         name = 'My Reading List'
         url = '/books/'
-        weight = -90  
+        weight = -80
         
