@@ -13,7 +13,7 @@ Sapiens: A Brief History of Humankind - Yuval Noah Harari
 
 ## Have Read
 
-# Science: Psychology, Cognition & Human Behavior
+### Science: Psychology, Cognition & Human Behavior
 
 Psychology of Prejudice and Discrimination — Mary E. Kite, Bernard E. Whitley Jr., Lisa S. Wagner
 
@@ -31,7 +31,7 @@ Range: Why Generalists Triumph in a Specialized World — David Epstein
 
 Why We Sleep: Unlocking the Power of Sleep and Dreams - Matthew Walker
 
-# Education, Teaching & Academic Life
+### Education, Teaching & Academic Life
 
 Teaching as if Learning Matters: Pedagogies of Becoming by Next-Generation Faculty — Jennifer Meta Robinson
 
@@ -39,7 +39,7 @@ The Writing Workshop: Write More, Write Better, Be Happier in Academia — Barba
 
 Air & Light & Time & Space: How Successful Academics Write - Helen Sword
 
-# Asian and Asian American History, Social Analysis, Memoir, and Fiction
+### Asian and Asian American History, Social Analysis, Memoir, and Fiction
 
 The Making of Asian America: A History - Erika Lee
 
