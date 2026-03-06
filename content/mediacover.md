@@ -11,3 +11,5 @@ Here you can find media coverages of my and my colleagues' work.
 
 [Gender, race, and power: Unpacking the dynamics of workplace perceptions](https://www.psypost.org/gender-race-and-power-unpacking-the-dynamics-of-workplace-perceptions/#google_vignette)
 
+[Purpose Reflection in the STEM classroom](https://blogs.iu.edu/citl/2024/09/09/quick-tip-boosting-stem-success-the-power-of-purpose-reflection-in-the-classroom/)
+
