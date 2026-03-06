@@ -57,7 +57,7 @@ theme = 'barks'
     [[menu.main]]
         identifier = 'Publication'
         name = 'Publication'
-        url = '/Publication/'
+        url = '/Publications/'
         weight = -120
     [[menu.main]]
         identifier = 'CV'
