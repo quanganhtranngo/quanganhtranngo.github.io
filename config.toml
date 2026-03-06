@@ -52,12 +52,12 @@ theme = 'barks'
     [[menu.main]]
         identifier = 'Research'
         name = 'Research'
-        url = '/Research/'
+        url = '/research/'
         weight = -130
     [[menu.main]]
         identifier = 'Publication'
         name = 'Publication'
-        url = '/Publications/'
+        url = '/publications/'
         weight = -120
     [[menu.main]]
         identifier = 'CV'
