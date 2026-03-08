@@ -34,7 +34,7 @@ Multicultural individuals may experience lower well-being, having to navigate mu
 
 ## STEM Education
 
-![stem](/stem.jpg)
+![stem](/education.jpg)
 
 ### Purpose Reflection in the Classroom
 STEM is a challenging journey, but students’ reflection on their purpose of being in STEM may improve their psychological experience and persistence in STEM. How can the benefits of purpose reflection be applied to a real STEM classroom?
