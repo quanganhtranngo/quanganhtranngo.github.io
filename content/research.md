@@ -2,6 +2,21 @@
 
 ![divider](/divider.png)
 
+## STEM Education
+
+![stem](/education.jpg)
+
+### Purpose Reflection in the Classroom
+STEM is a challenging journey, but students’ reflection on their purpose of being in STEM may improve their psychological experience and persistence in STEM. How can the benefits of purpose reflection be applied to a real STEM classroom?
+
+### Uncertainty in Education: a Community Cultural Wealth Perspective
+In uncertain times and phases of life, does tapping into one's community cultural wealth provide even greater benefits to student's belonging, motivation, enjoyment, and certainty in STEM? For whom does community cultural wealth help?
+
+### AI in STEM Education
+With the rise of AI in STEM education, do students perceive different goal affordances for STEM? Does that relate to students' psychological experiences of being in STEM?
+
+![divider](/divider.png)
+
 ## Stereotyping and Prejudice
 
 ![Asian](/asian.png)
@@ -20,21 +35,6 @@ What does human-generated texts reveal about how English-users collectively conc
 
 ### Bicultural Identity Integration
 Multicultural individuals may experience lower well-being, having to navigate multiple sets of (sometimes conflicting) cultural cognitions, practices, and value systems. The process of synthetizing one’s multiple cultural frames is called bicultural identity integration (BII).  Despite culture being social structurally shaped systems, bicultural identity integration (BII) had mostly been treated as an individual difference. Nevertheless, BII may be also influenced by larger ecological, historical, political, and cultural factors too. How do social structural factors influence experiences of bicultural identity integration among Asian subgroups?
-
-![divider](/divider.png)
-
-## STEM Education
-
-![stem](/education.jpg)
-
-### Purpose Reflection in the Classroom
-STEM is a challenging journey, but students’ reflection on their purpose of being in STEM may improve their psychological experience and persistence in STEM. How can the benefits of purpose reflection be applied to a real STEM classroom?
-
-### Uncertainty in Education: a Community Cultural Wealth Perspective
-In uncertain times and phases of life, does tapping into one's community cultural wealth provide even greater benefits to student's belonging, motivation, enjoyment, and certainty in STEM? For whom does community cultural wealth help?
-
-### AI in STEM Education
-With the rise of AI in STEM education, do students perceive different goal affordances for STEM? Does that relate to students' psychological experiences of being in STEM?
 
 ![divider](/divider.png)
 
