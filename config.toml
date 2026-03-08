@@ -68,15 +68,15 @@ theme = 'barks'
         identifier = 'Media Coverage'
         name = 'Media Coverage'
         url = '/mediacover/'
-        weight = -100
+        weight = -60
     [[menu.main]]
         identifier = 'R with Alex'
         name = 'R with Alex'
         url = '/rwithalex/'
-        weight = -90
+        weight = -50
     [[menu.main]]
         identifier = 'Reading'
         name = 'My Reading List'
         url = '/books/'
-        weight = -80
+        weight = -40
         
