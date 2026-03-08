@@ -5,7 +5,7 @@ draft: false
 hide_title: true
 ---
 
-## Publications
+# Publications
 
 Diekman, A. B., Joshi, M. P., White, A. D., **Tran, Q. A. N.**, & Seth, J. (2024). Purpose reflection benefits minoritized students’ motivation and well-being in STEM. *Scientific Reports, 14*(1), 466. [[view here]](/Diekmanetal2024.pdf)
 
