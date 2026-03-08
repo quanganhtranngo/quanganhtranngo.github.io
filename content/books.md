@@ -11,7 +11,7 @@ You can find books I have read (and recommend) or books I am currently reading h
 
 ![divider](/divider.png)
 
-## Currently Reading
+# Currently Reading
 
 Sapiens: A Brief History of Humankind - Yuval Noah Harari
 
@@ -21,9 +21,9 @@ To Save and to Destroy - Viet Thanh Nguyen
 
 ![divider](/divider.png)
 
-## Have Read
+# Have Read
 
-### Science: Psychology, Cognition & Human Behavior
+## Science: Psychology, Cognition & Human Behavior
 
 Psychology of Prejudice and Discrimination — Mary E. Kite, Bernard E. Whitley Jr., Lisa S. Wagner
 
@@ -49,7 +49,7 @@ The Writing Workshop: Write More, Write Better, Be Happier in Academia — Barba
 
 Air & Light & Time & Space: How Successful Academics Write - Helen Sword
 
-### Asian and Asian American History, Social Analysis, Memoir, and Fiction
+## Asian and Asian American History, Social Analysis, Memoir, and Fiction
 
 The Making of Asian America: A History - Erika Lee
 
@@ -93,7 +93,7 @@ Crying in H Mart - Michelle Zauner
 
 The Leavers - Lisa Ko
 
-### Feel-good illustrations
+## Feel-good illustrations
 
 The Boy, the Mole, the Fox and the Horse - Charlie Mackesy
 
