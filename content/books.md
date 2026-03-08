@@ -7,15 +7,15 @@ hide_title: true
 
 You can find books I have read (and recommend) or books I am currently reading here. 
 
-![2025books]("2025books.jpg")
+![2025books]("2025books.jpeg")
 
-![divider]("divider.jpg")
+![divider]("divider.png")
 
 ## Currently Reading
 
 Sapiens: A Brief History of Humankind - Yuval Noah Harari
 
-![divider]("divider.jpg")
+![divider]("divider.png")
 
 ## Have Read
 
