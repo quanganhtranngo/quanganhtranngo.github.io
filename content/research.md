@@ -2,7 +2,7 @@
 
 ![divider](/divider.png)
 
-## Dynamic Gender Stereotypes
+## Stereotyping and Prejudice
 
 ![Gender](/GenderIl.png)
 
@@ -15,9 +15,14 @@ As the gender distribution of social roles change over time, men and women are i
 ### Gender Stereotypes in Human-Generated Texts
 What does human-generated texts reveal about how English-users collectively conceptualizes what is a man or a woman? 
 
+### A Drift Diffusion Model of Trustworthiness Inferences from Faces
+What can drift diffusion modeling reveal about the decision making process in which people make judgments whether someone is trustworthiness or not based on their faces?
+
 ![divider](/divider.png)
 
 ## Perceptions and Experiences of Asian Subgroups
+
+![Asian](/asian.png)
 
 ### Roles and Stereotypes about Asian Subgroups
 Social role theory posits that stereotypes arise from the roles groups occupy in society. However, broad racial categories can obscure important differences across subgroups. How do stereotype content and judgments of occupational fit differ across Asian subgroups?
@@ -28,6 +33,8 @@ Multicultural individuals may experience lower well-being, having to navigate mu
 ![divider](/divider.png)
 
 ## STEM Education
+
+![stem](/stem.jpg)
 
 ### Purpose Reflection in the Classroom
 STEM is a challenging journey, but students’ reflection on their purpose of being in STEM may improve their psychological experience and persistence in STEM. How can the benefits of purpose reflection be applied to a real STEM classroom?
