@@ -7,9 +7,13 @@ hide_title: true
 
 You can find books I have read (and recommend) or books I am currently reading here. 
 
+![divider]("divider.jpg")
+
 ## Currently Reading
 
 Sapiens: A Brief History of Humankind - Yuval Noah Harari
+
+![divider]("divider.jpg")
 
 ## Have Read
 
@@ -83,7 +87,7 @@ Crying in H Mart - Michelle Zauner
 
 The Leavers - Lisa Ko
 
-# Feel-good illustrations
+### Feel-good illustrations
 
 The Boy, the Mole, the Fox and the Horse - Charlie Mackesy
 
