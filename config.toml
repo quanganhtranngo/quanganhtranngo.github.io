@@ -11,7 +11,7 @@ theme = 'barks'
     
 [params.head]
     author = "Quang-Anh Ngo Tran"
-    custom_css = "style.css"
+    custom_css = "/style.css"
     description = "Quang-Anh Ngo Tran's Homepage"
     keywords = ["alex", "Quang-Anh", "Ngo", "tran", "psychology", "iu", "indiana", "university"]
 
