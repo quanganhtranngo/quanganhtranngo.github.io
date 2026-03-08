@@ -4,8 +4,6 @@
 
 ## Dynamic Gender Stereotypes
 
-<h3 align="left">Revisiting Dynamic Stereotypes</h3>
-
 ### Revisiting Dynamic Stereotypes
 How have dynamic stereotypes changed since they were first documented 25 years ago? Contemporary participants continue to see women as adopting male-stereotypic traits from the past into the future, but project these trajectories of change to be less steep. This reduced trajectory of change in traits aligns with a plateau in gender role change since the year 2000.
 
