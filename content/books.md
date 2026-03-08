@@ -15,6 +15,10 @@ You can find books I have read (and recommend) or books I am currently reading h
 
 Sapiens: A Brief History of Humankind - Yuval Noah Harari
 
+Writing Your Journal Article in Twelve Weeks: A Guide to Academic Publishing Success (second edition) - Wendy Laura Belcher
+
+To Save and to Destroy - Viet Thanh Nguyen
+
 ![divider]("divider.png")
 
 ## Have Read
