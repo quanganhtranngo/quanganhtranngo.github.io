@@ -1,6 +1,6 @@
 # Research Interests and Current Projects
 
-# ------------------------------
+![divider](/divider.jpg)
 
 ## Dynamic Gender Stereotypes
 
@@ -15,7 +15,7 @@ As the gender distribution of social roles change over time, men and women are i
 ### Gender Stereotypes in Human-Generated Texts
 Human-generated texts can reveal how a society collectively conceptualizes what social roles and traits are associated with the genders. Using diachronic word embeddings trained on large-scale English corpora, semantic associations of men and women with social roles and traits have converged over time. These shifts in gender conceptualizations were associated with increases in U.S. structural gender equality.
 
-# ------------------------------
+![divider](/divider.jpg)
 
 ## Perceptions and Experiences of Asian Subgroups
 
@@ -25,7 +25,7 @@ Social role theory posits that stereotypes arise from the roles groups occupy in
 ### Bicultural Identity Integration
 Multicultural individuals may experience lower well-being, having to navigate multiple sets of (sometimes conflicting) cultural cognitions, practices, and value systems. The process of synthetizing one’s multiple cultural frames is called bicultural identity integration (BII).  Despite culture being social structurally shaped systems, bicultural identity integration (BII) had mostly been treated as an individual difference. Nevertheless, BII may be also influenced by larger ecological, historical, political, and cultural factors too. This project examines the social structural factors that may influence experiences of bicultural identity integration among Asian subgroups.
 
-# ------------------------------
+![divider](/divider.jpg)
 
 ## STEM Education
 
@@ -38,7 +38,7 @@ In uncertain times and phases of life, does tapping into one's community cultura
 ### AI in STEM Education
 With the rise of AI in STEM education, do students perceive different goal affordances for STEM? Does that relate to students' psychological experiences of being in STEM?
 
-# ------------------------------
+![divider](/divider.jpg)
 
 ## Social Structures and Face Perception
 Perceivers infer dominance and trustworthiness from targets’ faces. Previous research demonstrates that both target’s facial cues and perceiver’s social knowledge (e.g., stereotypes) influence these face-based trait impressions. Does social structures, specifically structural economic equality, also actively influence these trait impressions from faces?
