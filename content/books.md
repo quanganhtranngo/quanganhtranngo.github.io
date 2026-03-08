@@ -2,14 +2,11 @@
 title: "Recommended Books"
 date: 2023-12-11T18:12:11+07:00
 draft: false
-hide_title: true
 ---
 
 You can find books I have read (and recommend) or books I am currently reading here. 
 
 ![2025books](/2025books.jpeg)
-
-![divider](/divider.png)
 
 # Currently Reading
 
@@ -19,7 +16,6 @@ Writing Your Journal Article in Twelve Weeks: A Guide to Academic Publishing Suc
 
 To Save and to Destroy - Viet Thanh Nguyen
 
-![divider](/divider.png)
 
 # Have Read
 

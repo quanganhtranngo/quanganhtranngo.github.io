@@ -1,8 +1,46 @@
+/* center subheadings */
+
 h2, h3, h4, h5, h6 {
     text-align: left;
 }
 
+/* center images */
+
 main p img {
   display: block;
   margin: 0 auto;
+}
+
+/* for divider between h1/#s */
+
+.divider {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+}
+
+.divider img {
+    max-width: 80%;
+}
+
+h1:first-of-type .divider {
+  display: none;
+}
+
+/* for landing page */
+
+.landing-page-wrapper h2 {
+    margin: 0.5rem 0;
+}
+
+.landing-page-content {
+    width: unset;
+}
+
+.landing-page-image {
+    float: right;
+    width: 27%;
+    margin-left: 1.2rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }

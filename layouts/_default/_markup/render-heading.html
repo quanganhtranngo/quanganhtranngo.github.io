@@ -1,0 +1,6 @@
+<h{{ .Level }} id="{{ .Anchor }}">
+    {{ if eq .Level 1 }}
+        <div class="divider"><img src="/divider.png" alt="divider"></div>
+    {{ end }}
+    {{ .Text | safeHTML }}
+</h{{ .Level }}>

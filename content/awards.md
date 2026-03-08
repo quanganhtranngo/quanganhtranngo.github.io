@@ -1,7 +1,7 @@
 ---
 title: "Awards & Honors"
 date: 2022-11-27T18:12:11+07:00
-draft: false
+draft: true
 ---
 
 # Citizenship Award in Psychological and Brain Sciences

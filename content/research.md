@@ -1,6 +1,8 @@
-# Research Interests and Current Projects
-
-![divider](/divider.png)
+---
+title: "Research Interests and Current Projects"
+date: 2026-03-08
+draft: false
+---
 
 # STEM Education
 
@@ -15,7 +17,6 @@ In uncertain times and phases of life, does tapping into one's community cultura
 ## AI in STEM Education
 With the rise of AI in STEM education, do students perceive different goal affordances for STEM? Does that relate to students' psychological experiences of being in STEM?
 
-![divider](/divider.png)
 
 # Stereotyping and Prejudice
 
@@ -36,7 +37,6 @@ What does human-generated texts reveal about how English-users collectively conc
 ## Bicultural Identity Integration
 Multicultural individuals may experience lower well-being, having to navigate multiple sets of (sometimes conflicting) cultural cognitions, practices, and value systems. The process of synthetizing one’s multiple cultural frames is called bicultural identity integration (BII).  Despite culture being social structurally shaped systems, bicultural identity integration (BII) had mostly been treated as an individual difference. Nevertheless, BII may be also influenced by larger ecological, historical, political, and cultural factors too. How do social structural factors influence experiences of bicultural identity integration among Asian subgroups?
 
-![divider](/divider.png)
 
 # Face Perception
 

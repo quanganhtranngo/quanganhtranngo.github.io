@@ -6,8 +6,8 @@ layout: landing_page
 image: tran-alex1.jpg
 ---
 
-# Ph.D. student at Indiana University Bloomington
-# Teaching Fellow at Butler University
+## Ph.D. Student at Indiana University Bloomington
+## Teaching Fellow at Butler University
 
 I am a graduate student studying Social Psychology at Indiana University Bloomington, advised by Dr. Amanda Diekman in the Social Roles Lab. Hanoi, Vietnam is where I call home. Bloomington, Indiana is where I am trying to call home.
 
