@@ -7,6 +7,8 @@ hide_title: true
 
 You can find books I have read (and recommend) or books I am currently reading here. 
 
+![2025books]("2025books.jpg")
+
 ![divider]("divider.jpg")
 
 ## Currently Reading
