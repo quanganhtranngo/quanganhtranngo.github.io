@@ -7,9 +7,9 @@ hide_title: true
 
 You can find books I have read (and recommend) or books I am currently reading here. 
 
-![2025books]("2025books.jpeg")
+![2025books](/2025books.jpeg)
 
-![divider]("divider.png")
+![divider](/divider.png)
 
 ## Currently Reading
 
@@ -19,7 +19,7 @@ Writing Your Journal Article in Twelve Weeks: A Guide to Academic Publishing Suc
 
 To Save and to Destroy - Viet Thanh Nguyen
 
-![divider]("divider.png")
+![divider](/divider.png)
 
 ## Have Read
 
