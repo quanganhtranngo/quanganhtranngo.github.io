@@ -8,8 +8,10 @@ image: tran-alex1.jpg
 
 ## Hi, my name is Quang-Anh Ngo (Alex) Tran!
 
-![IU](/iu.png) Ph.D. Student at Indiana University Bloomington
+![IU](/iu.png) Ph.D. Candidate in Social Psychology at Indiana University Bloomington
+
 ![butleruniversity](/butler.png) Teaching Fellow at Butler University
+
 ![colgateuiversity](/colgate.png) BA in Psychological and Brain Sciences and Educational Studies at Colgate University
 
 I am a graduate student studying Social Psychology at Indiana University Bloomington, advised by Dr. Amanda Diekman in the Social Roles Lab. Hanoi, Vietnam is where I call home.
