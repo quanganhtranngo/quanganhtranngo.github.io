@@ -61,7 +61,7 @@ theme = 'barks'
         weight = -110
     [[menu.main]]
         identifier = 'Media'
-        name = 'Media Coverage'
+        name = 'Media'
         url = '/mediacover/'
         weight = -60
     [[menu.main]]
