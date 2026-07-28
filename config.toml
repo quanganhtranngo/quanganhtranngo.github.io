@@ -56,7 +56,7 @@ theme = 'barks'
         weight = -120
     [[menu.main]]
         identifier = 'CV'
-        name = 'Resume'
+        name = 'CV'
         url = '/cv.pdf'
         weight = -110
     [[menu.main]]
