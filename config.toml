@@ -4,9 +4,9 @@ title = "Quang-Anh Ngo Tran"
 theme = 'barks'
 
 [params.colors]
-    theme_color = "#333333"
-    background_color = "#fcfbf9"
-    text_color = "#333333"
+    theme_color = "#fcfbf9"
+    background_color = "#333333"
+    text_color = "#fcfbf9"
     link_color = "#60c17d"
     
 [params.head]
@@ -37,16 +37,11 @@ theme = 'barks'
         class = "fab fa-linkedin"
         url = "https://www.linkedin.com/in/quang-anh-tran-345696173/"
         weight = 3
-    [params.social.Twitter]
-        name = "Twitter"
-        class = "fab fa-twitter"
-        url = "https://twitter.com/QuangAnhTranNgo"
-        weight = 4
     [params.social.MyInstitution]
         name = "My Institution"
         class = "fas fa-university"
         url = "https://socialroles.lab.indiana.edu/people/index.html"
-        weight = 5 
+        weight = 4 
 
 [menu]
     [[menu.main]]
@@ -65,14 +60,14 @@ theme = 'barks'
         url = '/cv.pdf'
         weight = -110
     [[menu.main]]
-        identifier = 'Media Coverage'
+        identifier = 'Media'
         name = 'Media Coverage'
         url = '/mediacover/'
         weight = -60
     [[menu.main]]
         identifier = 'R with Alex'
         name = 'R with Alex'
-        url = '/rwithalex/'
+        url = 'https://rwithalex.vercel.app/'
         weight = -50
     [[menu.main]]
         identifier = 'Reading'
