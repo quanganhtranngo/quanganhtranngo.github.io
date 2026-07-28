@@ -6,10 +6,13 @@ layout: landing_page
 image: tran-alex1.jpg
 ---
 
-## Ph.D. Student at Indiana University Bloomington
-## Teaching Fellow at Butler University
+## Hi, my name is Quang-Anh Ngo (Alex) Tran!
 
-I am a graduate student studying Social Psychology at Indiana University Bloomington, advised by Dr. Amanda Diekman in the Social Roles Lab. Hanoi, Vietnam is where I call home. Bloomington, Indiana is where I am trying to call home.
+![IU](/iu.png) Ph.D. Student at Indiana University Bloomington
+![butleruniversity](/butler.png) Teaching Fellow at Butler University
+![colgateuiversity](/colgate.png) BA in Psychological and Brain Sciences and Educational Studies at Colgate University
+
+I am a graduate student studying Social Psychology at Indiana University Bloomington, advised by Dr. Amanda Diekman in the Social Roles Lab. Hanoi, Vietnam is where I call home.
 
 I adopt social structural perspectives to study, broadly, stereotyping, prejudice, and STEM experience. Specifically, I use mixed methods to investigate how sociostructural contexts shape perceptions, evaluations, and experiences of different social groups. Subsequently, my research examines how psychological processes reinforce or challenge existing social hierarchies and how we can uplift the experience of minoritized and disadvantaged groups. 
 
