@@ -17,10 +17,7 @@ Here you can find media coverages of my and my colleagues' work.
 
 ![RA](/RA1.jpg)
 
-<p align="center">
 Nela Riddle at the Indiana University Cox Scholars Research Conference
-</p>
-
 
 ![RA](/RA2.jpg)
 
