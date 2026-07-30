@@ -17,6 +17,7 @@ main p img {
     display: flex;
     justify-content: center;
     margin-bottom: 60px;
+    filter: invert();
 }
 
 .divider img {
@@ -43,4 +44,11 @@ h1:first-of-type .divider {
     margin-left: 1.2rem;
     margin-top: 1rem;
     margin-bottom: 1rem;
+}
+
+/* for grid format */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 2rem;
 }

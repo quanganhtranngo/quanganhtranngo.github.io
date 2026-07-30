@@ -1,0 +1,13 @@
+<div class="grid-container">
+  {{- /* Split the inner content by three dashes */ -}}
+  {{- $cells := split .Inner "---" -}}
+  
+  {{- range $cells -}}
+    {{- /* Only render if the cell isn't completely empty spaces */ -}}
+    {{- if strings.TrimSpace . -}}
+      <div class="grid-cell">
+        {{- . | markdownify -}}
+      </div>
+    {{- end -}}
+  {{- end -}}
+</div>
