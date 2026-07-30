@@ -8,7 +8,7 @@ image: tran-alex1.jpg
 
 ## Hi, my name is Quang-Anh Ngo (Alex) Tran!
 
-<img src="./iu.png" alt="IU" width="40" /> Ph.D. Candidate in Social Psychology at Indiana University Bloomington
+<img src="/iu.png" alt="IU" width="40"> Ph.D. Candidate in Social Psychology at Indiana University Bloomington
 
 ![butleruniversity](/butler.png) Teaching Fellow at Butler University
 
