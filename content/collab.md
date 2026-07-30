@@ -8,7 +8,12 @@ draft: false
 
 [Dr. Amanda Diekman](/https://psych.indiana.edu/directory/faculty/diekman-amanda.html)
 
-Provost Professor
+Provost Professor, Indiana University Bloomington
 
-Ph.D. Advisor, Collaborator
+![Kurt Hugenberg](/hugenberg.jpg)
+
+[Dr. Kurt Hugenberg](/https://psych.indiana.edu/directory/faculty/diekman-amanda.html](https://psych.indiana.edu/directory/faculty/hugenberg-kurt.html)
+
+Professor, Indiana University Bloomington
+
 
