@@ -34,7 +34,7 @@ Assistant Professor, Ball State University
 
 Associate Professor, Colgate University
 
-![Kurt Hugenberg](/hugenberg.jpg)
+![Kurt Hugenberg](/hugenburg.jpg)
 
 [Dr. Kurt Hugenberg](/https://psych.indiana.edu/directory/faculty/hugenberg-kurt.html)
 
