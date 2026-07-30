@@ -68,10 +68,10 @@ theme = 'barks'
         identifier = 'R with Alex'
         name = 'R with Alex'
         url = 'https://rwithalex.vercel.app/'
-        weight = -50
-    [[menu.main]]
-        identifier = 'Reading'
-        name = 'My Reading List'
-        url = '/books/'
         weight = -40
+    [[menu.main]]
+        identifier = 'Collaborators'
+        name = 'Collaborators'
+        url = '/collab/'
+        weight = -50
         
