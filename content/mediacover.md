@@ -17,20 +17,16 @@ Here you can find media coverages of my and my colleagues' work.
 
 ![RA](/RA1.jpg)
 
-<p align="center">
-Nela Riddle at the Indiana University Cox Scholars Research Conference
+<!-- Nela Riddle at the Indiana University Cox Scholars Research Conference -->
 
 ![RA](/RA2.jpg)
 
-<p align="center">
-Jaden Clark at the Midwestern Psychological Association Conference
+<!-- Jaden Clark at the Midwestern Psychological Association Conference -->
 
 ![RA](/RA3.jpg)
 
-<p align="center">
-From left to right, Dr. Shahana Ansari, Anshu Chappidi, Kyndal Funderburk, Mariah Questelles, and me at the Indiana University Underaduate Research Conference
+<!-- From left to right, Dr. Shahana Ansari, Anshu Chappidi, Kyndal Funderburk, Mariah Questelles, and me at the Indiana University Underaduate Research Conference -->
 
 ![RA](/RA4.jpg)
 
-<p align="center">
-From left to right, Muslimah Davis and An'Yake Lewis at the Indiana University Underaduate Research Conference
+<!-- From left to right, Muslimah Davis and An'Yake Lewis at the Indiana University Underaduate Research Conference -->
