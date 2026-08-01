@@ -66,4 +66,12 @@ Professor, University of Hawai'i
 Dr. Anjana Lakshmi
 
 Postdoctoral Researcher, Indiana University Bloomington
+
+---
+
+![Samantha Heiman](/heiman.jpg)
+
+Dr. Samantha Heiman
+
+Assistant Professor, Cornell College
 {{</ grid >}}
