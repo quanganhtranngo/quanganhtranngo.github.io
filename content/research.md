@@ -5,7 +5,6 @@ draft: false
 ---
 
 {{< grid >}}
-
 # STEM Education
 
 ![stem](/education.jpg)
@@ -51,5 +50,4 @@ What can drift diffusion modeling reveal about the decision making process in wh
 
 ## Social Structures and Face Perception
 Perceivers infer dominance and trustworthiness from targets’ faces. Previous research demonstrates that both target’s facial cues and perceiver’s social knowledge (e.g., stereotypes) influence these face-based trait impressions. Does social structures, specifically structural economic equality, also actively influence these trait impressions from faces?
-
-{{< grid >}}
+{{</ grid >}}
