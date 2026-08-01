@@ -18,8 +18,21 @@ Feel free to connect with me using any of the methods in the bar below. I would 
 
 # My Journey
 
+{{< grid >}}
+
+![IUB](/iu.png)
+
 Ph.D. Candidate in Social Psychology at Indiana University Bloomington
 
+---
+
+![Butler University](/butler.png)
 Teaching Fellow at Butler University
 
+---
+
+![Colgate University](/colgate.png)
+
 BA in Psychological and Brain Sciences and Educational Studies at Colgate University
+
+{{</ grid >}}
