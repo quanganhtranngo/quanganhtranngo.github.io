@@ -39,4 +39,12 @@ From left to right, Dr. Shahana Ansari, Anshu Chappidi, Kyndal Funderburk, Maria
 
 From left to right, Muslimah Davis and An'Yake Lewis at the Indiana University Undergraduate Research Conference
 
+---
+
+![RA](/RA5.jpg)
+
+Ani Johnson at the Indiana University Senior Thesis Conference
+
+---
+
 {{</ grid >}}
